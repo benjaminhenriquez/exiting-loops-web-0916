@@ -1,5 +1,4 @@
 Exiting Loops
----
 
 ## Objectives
 
